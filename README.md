@@ -11,7 +11,7 @@ node -v
 npm -v
 ```
 
-You should see the versions of Node.js and npm.
+You should see the versions of Node.js and npm
 
 ## Step 2: Using `@puppeteer/browsers` to Manage Browsers
 
